@@ -1,4 +1,4 @@
-[alt text](https://github.com/Bhismydv/ExpansionTile/blob/master/Screenshot_2022-10-15-17-33-11-899_com.bhism.example.jpg)
+ <img src="https://github.com/Bhismydv/ExpansionTile/blob/master/Screenshot_2022-10-15-17-33-11-899_com.bhism.example.jpg" width="350" title="hover text">
 
 # example
 
